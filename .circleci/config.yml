@@ -1,5 +1,7 @@
 version: 2.1
-
+git config:
+  git config user.email "anandraja1993.15@gmail.com"
+  git config user.name "Anand Raj"
 orbs:
   python: circleci/python@0.2.1
 
